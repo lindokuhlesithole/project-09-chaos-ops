@@ -366,6 +366,10 @@ terraform destroy
 
 6. **The experiment history table is your audit trail** — Every experiment run, its parameters, results, and score stored in DynamoDB. Essential for compliance (SOC 2, ISO 27001) and for tracking resilience trends over time.
 
----
+**Lindokuhle Sithole** - *Cloud Engineer | Cloud DevOps Engineer | Cloud Security Specialist*
 
-**Built by [Lindokuhle Sithole](https://github.com/lindokuhlesithole)** — Cloud Engineer learning by building. Based in Bremen, Germany.
+Based in Bremen, Germany. BSc Mathematical Science from the University of the Witwatersrand. 5x AWS Certified (Solutions Architect Professional, Security Specialty, CloudOps Engineer Associate, Solutions Architect Associate, Cloud Practitioner) plus CompTIA Security+.
+
+- **LinkedIn:** [linkedin.com/in/lindokuhle-sithole-bb701b19a](https://www.linkedin.com/in/lindokuhle-sithole-bb701b19a)
+- **GitHub:** [github.com/lindokuhlesithole](https://github.com/lindokuhlesithole)
+- **Email:** sitholelindokuhle371@gmail.com
