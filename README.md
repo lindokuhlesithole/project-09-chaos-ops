@@ -364,7 +364,7 @@ terraform destroy
 
 5. **Resilience scoring makes SRE tangible** — Converting recovery metrics into a single 0-100 score gives executives and teams a concrete target. "Improve our Resilience Score from 65 to 85" is a clearer goal than "make the system more resilient."
 
-6. **The experiment history table is your audit trail** — Every experiment run, its parameters, results, and score stored in DynamoDB. Essential for compliance (SOC 2, ISO 27001) and for tracking resilience trends over time.
+6. **The experiment history table is your audit trail** — Every experiment run, its parameters, results, and score stored in DynamoDB. Essential for compliance (SOC 2, ISO 27001) and for tracking resilience trends over time.## Author
 
 **Lindokuhle Sithole** - *Cloud Engineer | Cloud DevOps Engineer | Cloud Security Specialist*
 
